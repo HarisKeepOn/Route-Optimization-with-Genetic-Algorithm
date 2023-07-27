@@ -5,7 +5,8 @@ const instance = axios.create({
   timeout: 5000, // Set an appropriate timeout
   headers: {
     "Content-Type": "application/json",
-    "X-Goog-Api-Key": "AIzaSyBjTTyY5GHxTwPGSYnJYw2wfa8EHteRN1o"
+    // from env file
+    "X-Goog-Api-Key": process.env.GOOGLE_MAPS_API_KEY
   }
 });
 
