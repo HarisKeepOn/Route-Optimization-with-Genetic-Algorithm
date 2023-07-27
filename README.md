@@ -49,7 +49,7 @@ PORT=3003
 4. Run the application:
 
 ```bash
-npm start
+npm run start:dev
 ```
 
 The application will start running on the specified port, and you can access it in your browser at `http://localhost:3003` (or the specified port).
