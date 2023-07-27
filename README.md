@@ -4,12 +4,14 @@ This project is a web application that utilizes a Genetic Algorithm to find the 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Dependencies](#dependencies)
-- [License](#license)
+- [Route Optimization with Genetic Algorithm](#route-optimization-with-genetic-algorithm)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [API Endpoints](#api-endpoints)
+  - [Dependencies](#dependencies)
+  - [License](#license)
 
 ## Introduction
 
@@ -23,16 +25,15 @@ To run the application locally, follow these steps:
 
 1. Clone the repository to your local machine using Git:
 
-```bash
-git clone <repository-url>
-```
+````bash
+git clone https://github.com/HarisKeepOn/Route-Optimization-with-Genetic-Algorithm.git
 
 2. Install the required dependencies using npm:
 
 ```bash
 cd route-optimization-genetic-algorithm
 npm install
-```
+````
 
 3. Set up your environment variables:
 
